@@ -1,6 +1,8 @@
 # hmvc-example
 This is an example of a GUI application demonstrating the HMVC and EventBus design patterns.
 
+The benefits of using these patterns are discussed in the article that can be found [here](https://www.paranor.ch/en/news/user-interface-application-architecture-hmvc).
+
 ## Running the example
 To run the code you will need:
 
